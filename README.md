@@ -2,7 +2,7 @@
 
 Laravel package for [eContract](https://econtract.online) e-signatures: a `SignatureProvider`
 interface your code depends on, the eContract implementation, webhook signature verification, a queued
-job that downloads the signed PDF and a reconcile command. Laravel 11 and 12, PHP 8.2+.
+job that downloads the signed PDF and a reconcile command. Laravel 11, 12 and 13, PHP 8.2+.
 
 Guide: [Integrating eContract](https://developers.econtract.online/docs/integration). Runnable Node.js
 example and cURL scripts: [econtract-integration-demo](https://github.com/contractlayer/econtract-integration-demo).
